@@ -1,0 +1,14 @@
+layout_spectrum: 0.5869486990850419
+typography_spectrum: 0.8651065139565617
+color:
+  brandStrength: 0.8612116565927863
+  lightness: 0.7831672409083694
+  saturation: 0.5639223649632186
+  rhythmicContrast: 0.6762503781355917
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: CPRtechs
