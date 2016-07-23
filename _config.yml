@@ -12,3 +12,8 @@ color:
     - '#A7C520'
     - '#493F0B'
 name: CPRtechs
+navigation:
+  - id: www.cprtechs.com
+    url: www.cprtechs.com
+    name: About
+    type: external
