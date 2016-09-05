@@ -16,4 +16,7 @@ navigation:
   - name: About us
     url: www.cprtechs.com
     type: external
+  - name: Health & Safety Training
+    url: cprtechs.com
+    type: external
 title: 'Save a life, one breath at a time!'
