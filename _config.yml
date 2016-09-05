@@ -13,8 +13,7 @@ color:
 layout_spectrum: 0.5869486990850419
 name: CPRtechs
 navigation:
-  - id: www.cprtechs.com
+  - name: About us
     url: www.cprtechs.com
-    name: About us
     type: external
 title: 'Save a life, one breath at a time!'
